@@ -24,3 +24,8 @@ let myObj = {
     city:'Bengaluru'
 };
 console.log(typeof(myObj));
+
+let myReAssign = 10;
+console.log(myReAssign);
+myReAssign = 20;
+console.log(myReAssign);
